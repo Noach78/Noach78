@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>👋 Salut, je suis Noa !</h1>
   <h3>🚀 Futur Développeur Full-Stack | 🎯 À la recherche d'une alternance (2 ans)</h3>
 
