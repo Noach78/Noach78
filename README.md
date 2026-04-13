@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <h3>🛠️ Mes Compétences & Technologies</h3>
   
   <p><b>🌐 Frontend</b></p>
